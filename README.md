@@ -57,16 +57,15 @@
 ## Statistics Preview
 <p align="center">
 	<br/> &nbsp;
-	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvlboo&show_icons=true&locale=en&theme=react" alt="dvlboo" />
+	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=dvlboo&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="dvlboo" height="180px"/>
+	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvlboo&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" alt="dvlboo" height="180px"/>
 </p>
-
-<div align="center"> <br/> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=dvlboo&show_icons=true&locale=en&layout=compact&theme=react" alt="dvlboo"/></div>
 
 
 <div align="center">
 	<br/>
 	<a href="https://git.io/streak-stats">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=dvlboo&theme=react&hide_border=true" alt="dvlboo" />
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=dvlboo&theme=midnight-purple&hide_border=true" alt="dvlboo" />
 	</a>
 </div>
 
