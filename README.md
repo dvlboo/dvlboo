@@ -57,8 +57,8 @@
 ## Statistics Preview
 <p align="center">
 	<br/> &nbsp;
-	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=dvlboo&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="dvlboo" height="160em"/>
-	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvlboo&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" alt="dvlboo" height="160em"/>
+	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=dvlboo&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="dvlboo" height="170em"/>
+	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvlboo&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" alt="dvlboo" height="170em"/>
 </p>
 
 
