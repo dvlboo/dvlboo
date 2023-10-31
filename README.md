@@ -65,7 +65,7 @@
 <div align="center">
 	<br/>
 	<a href="https://git.io/streak-stats">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=dvlboo&theme=midnight-purple&hide_border=true" alt="dvlboo" />
+	<img src="https://streak-stats.demolab.com?user=dvlboo&theme=midnight-purple&fire=EBA108" alt="dvlboo" />
 	</a>
 </div>
 
