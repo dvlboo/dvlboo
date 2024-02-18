@@ -27,13 +27,13 @@
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
   <a style="margin: 5px 30px" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
   <a style="margin: 5px 30px" href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
   </a>
   <a style="margin: 5px 30px" href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
   </a>
   <a style="margin: 5px 30px" href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
