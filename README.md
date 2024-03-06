@@ -1,5 +1,5 @@
 <h1 align="center">Nǐ hǎo 👋, I'm Kukuh Cokro Wibowo</h1>
-<h3 align="center">I'm interested in being Fullstack Web Developer and Data Analyst</h3>
+<h3 align="center">I'm interested in being Fullstack Web Developer and AI Engineer</h3>
 
 <hr>
 
